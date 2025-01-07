@@ -1,6 +1,14 @@
 # Palm-Trees-Counting
 Dengan memanfaatkan teknik computer vision, program secara otomatis mengidentifikasi dan menghitung jumlah pohon kelapa sawit. Gambar keluaran ini diharapkan dapat memudahkan pengelola perkebunan untuk memantau dan mengelola data inventaris pohon secara efisien.
 ------------------
+**Notes**
+1. python==3.9
+2. Run with colab/jupyter notebook
+3. windows
+4. !pip install roboflow
+5. !pip install ultralytics
+6. !pip install opencv-python
+------------------
 
 **AI CYCLE PROJECT**
 
